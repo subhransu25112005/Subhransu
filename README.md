@@ -1,6 +1,6 @@
 #👋 Hi, I'm Subhransu
 
-🎓 B.Tech CSE Student | 💡 Exploring AI, ML, Embedded Systems & Robotics  
+🎓 B.Tech CSE Student | 💡 Exploring AI, ML, and morden tech
 🌱 Currently Learning: Git, GitHub, Python, C Programming , DSA and Real-World Projects.
 ---
 
